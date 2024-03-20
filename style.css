@@ -1,0 +1,54 @@
+.main{
+    border: 3px solid black;
+    width: 500px;
+    height:300px;
+    text-align: center;
+    margin: auto;
+    margin-top:150px;
+}
+#n1{
+    margin-top: 10px;
+    height:30px;
+    width:150px;
+    color:white;
+    background: black;
+    font-size: larger;
+}
+#n2{
+    margin-top: 10px;
+    height:30px;
+    width:150px;
+    color:white;
+    background: black;
+    font-size: larger;
+}
+#n3{
+    height:30px;
+    width:150px;
+    color:white;
+    background: black;
+    font-size: larger;
+    margin-top: 30px;
+}
+#n4{
+    height:30px;
+    width:150px;
+    color:white;
+    background: black;
+    font-size: larger;
+}
+#n5{
+    height:30px;
+    width:150px;
+    color:white;
+    background: black;
+    font-size: larger;
+    margin-top: 30px;
+}
+#n6{
+    height:30px;
+    width:150px;
+    color:white;
+    background: black;
+    font-size: larger;
+}
